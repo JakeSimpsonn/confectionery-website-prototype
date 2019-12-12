@@ -945,3 +945,8 @@ img {
   margin: 0 .25rem .25em;
   width: 2.5em;
 }
+
+.img-flex,
+img{
+  opacity: 1;
+}
