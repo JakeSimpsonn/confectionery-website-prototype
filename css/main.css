@@ -948,5 +948,6 @@ img {
 
 .img-flex,
 img{
-  opacity: 1;
+  display: block;
+  width: 100%;
 }
